@@ -1,0 +1,76 @@
+
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: auto;
+}
+
+.matches {
+    color: white;
+}
+
+.matchDay {
+    color: white;
+}
+
+.main {
+    text-align: center;
+    padding: 15px;
+    display: block;
+    width: 100%;
+    background-color: black;
+
+}
+
+.block {
+    display: block;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.dropdown-item {
+    color: white;
+
+}
+
+#odds {
+    color: rgb(8, 236, 69)
+}
+
+.dropdown-menu {
+    width: 100%;
+
+}
+
+li {
+    background-color: grey;
+    border-style: solid;
+    border-width: thin;
+}
+
+.matchCard {
+    border-style: solid;
+    border-color: white;
+    flex: 1 1 300px;
+    margin: 7px;
+    padding: 13px;
+    box-sizing: border-box;
+
+}
+
+.oddsCard {
+    border-style: solid;
+    border-color: white;
+    flex: 1 1 300px;
+    margin: 7px;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.results {
+    display: flex;
+    flex-wrap: wrap;
+}
